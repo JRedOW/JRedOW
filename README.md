@@ -9,8 +9,10 @@ I'm a scatterbrained Highschool computer programmer, [Youtuber](https://www.yout
 [![My Discord](https://img.shields.io/discord/687095351538352153?style=for-the-badge)](https://discord.gg/6kahhMKjxT)
 
 # My Github Stats
-This only includes my personal work, not my work on SmileysScript, SparkMin, JQuest, or other Dual Vipers projects.
+The first two only include my personal work, not my work on SmileysScript, SparkMin, JQuest, or any other Independent or Dual Vipers projects.
 
 [![JRedOW's GitHub Stats](https://github-readme-stats-jredow.vercel.app/api?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
 
-[![JRedOW's Top Langs](https://github-readme-stats-jredow.vercel.app/api/top-langs/?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's Top Langs](https://github-readme-stats-jredow.vercel.app/api/top-langs?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+
+[![JRedOW's Wasted Time](https://github-readme-stats-jredow.vercel.app/api/wakatime?username=JRed_OW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
