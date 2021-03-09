@@ -10,8 +10,8 @@ I'm a scatterbrained Highschool computer programmer, [Youtuber](https://www.yout
 
 # My Github Stats
 
-[![JRedOW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's GitHub Stats](https://github-readme-stats-jredow.vercel.app/api?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
 
-[![JRedOW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's Top Langs](https://github-readme-stats-jredow.vercel.app/api/top-langs/?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
 
-This only includes my private work, not my work on SmileysScript, SparkMin, JQues, or other Dual Vipers projects
+This only includes my personal work, not my work on SmileysScript, SparkMin, JQuest, or other Dual Vipers projects.
