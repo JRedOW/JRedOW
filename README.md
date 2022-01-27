@@ -11,8 +11,8 @@ I'm a scatterbrained highschool computer programmer, [Youtuber](https://www.yout
 # My Github Stats
 The first two only include my personal work, not my work on any other Independent or Dual Vipers projects.
 
-[![JRedOW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRedOW&count_private=true&show_icons=true&theme=aura)](https://github.com/JRedOW)
 
-[![JRedOW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JRedOW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JRedOW&count_private=true&show_icons=true&theme=aura)](https://github.com/JRedOW)
 
-[![JRedOW's Wasted Time](https://github-readme-stats.vercel.app/api/wakatime?username=JRed_OW&count_private=true&show_icons=true&theme=angolia)](https://github.com/JRedOW)
+[![JRedOW's Wasted Time](https://github-readme-stats.vercel.app/api/wakatime?username=JRed_OW&count_private=true&show_icons=true&theme=aura)](https://github.com/JRedOW)
