@@ -15,4 +15,4 @@ The first two only include my personal work, not my work on any other Independen
 
 [![JRedOW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JRedOW&count_private=true&show_icons=true&theme=aura)](https://github.com/JRedOW)
 
-[![JRedOW's Wasted Time](https://github-readme-stats.vercel.app/api/wakatime?username=JRed_OW&count_private=true&show_icons=true&theme=aura)](https://github.com/JRedOW)
+[![JRedOW's Wasted Time](https://github-readme-stats.vercel.app/api/wakatime?username=JRed_OW&count_private=true&show_icons=true&theme=aura)](https://wakatime.com/@JRed_OW)
